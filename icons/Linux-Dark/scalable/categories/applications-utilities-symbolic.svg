@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="applications-utilities-symbolic.svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="714"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="31.34375"
+     inkscape:cx="3.0867398"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g4953"
+     transform="translate(-482 -462)"
+     style="fill:#4c9906;fill-opacity:1">
+    <rect
+       id="rect5455"
+       style="color:#000000;fill:#4c9906;fill-opacity:1"
+       rx="2.9337"
+       ry="2.986"
+       height="16"
+       width="6"
+       y="462"
+       x="482" />
+    <path
+       id="path256-4-4"
+       d="m487.41 462c0.87799 0.71298 1.4688 1.7921 1.4688 3v1h2.125c-0.0742-1.0926 1.2487-2 2-2 0.68073 0 1 0.0117 1 1v1h1.2188c1.2287-0.60001 1.7812-1.9691 1.7812-2.6875 0-0.73589-2.3854-1.3125-3.6875-1.3125z"
+       style="color:#000000;fill:#4c9906;fill-opacity:1" />
+    <path
+       id="path249-7-76"
+       d="m489 467v4.3125c2.7662 2.6616 6.125 2.4062 6.125 2.4062s0.35286-1.5209-1.9062-4.0312l-2.38-2.68h-0.625-1.1562c-0.0213 0.002-0.0412-0.002-0.0625 0zm2.975 2.5318 1.6834 1.7368c-1.799 0.16548-2.1508-0.85626-1.6834-1.7368z"
+       style="color:#000000;fill:#4c9906;fill-opacity:1" />
+  </g>
+</svg>

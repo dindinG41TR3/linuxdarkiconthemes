@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-publicshare-symbolic.svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="714"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="31.34375"
+     inkscape:cx="3.0867398"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer13"
+     transform="translate(-581 -196)"
+     style="fill:#4c9906;fill-opacity:1">
+    <path
+       id="path8192"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       d="m291 178.03a1.9688 1.9688 0 1 1 -3.9375 0 1.9688 1.9688 0 1 1 3.9375 0z"
+       transform="matrix(1.5079 0 0 1.5079 148.16 -64.491)" />
+    <path
+       id="path8194"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       d="m291 178.03a1.9688 1.9688 0 1 1 -3.9375 0 1.9688 1.9688 0 1 1 3.9375 0z"
+       transform="matrix(1.5079 0 0 1.5079 158.13 -59.491)" />
+    <path
+       id="path8196"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       d="m291 178.03a1.9688 1.9688 0 1 1 -3.9375 0 1.9688 1.9688 0 1 1 3.9375 0z"
+       transform="matrix(1.5079 0 0 1.5079 158.13 -69.491)" />
+    <path
+       id="path8198"
+       style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#4c9906;fill-opacity:1"
+       d="m593.62 198.16-10.062 4.875-1.8125 0.90625 1.8125 0.90625 10.031 5.0625 0.90625-1.8125-8.2188-4.1562 8.2188-4-0.875-1.7812z" />
+  </g>
+</svg>

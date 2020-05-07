@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="emblem-documents-symbolic.svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="714"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="31.34375"
+     inkscape:cx="3.0867398"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer15"
+     transform="translate(-542 -382)"
+     style="fill:#4c9906;fill-opacity:1">
+    <path
+       id="rect4513"
+       style="block-progression:tb;text-indent:0;color:#000000;enable-background:new;text-transform:none;fill:#4c9906;fill-opacity:1"
+       d="m544 382c-1.0907 0-2 0.9093-2 2v9c0 1.0907 0.9093 2 2 2h7c1.0907 0 2-0.9093 2-2v-9c0-1.0907-0.9093-2-2-2h-7zm0 2h7v9h-7v-9z" />
+    <path
+       id="rect4513-9"
+       style="block-progression:tb;text-indent:0;color:#000000;enable-background:new;text-transform:none;fill:#4c9906;fill-opacity:1"
+       d="m554 385v2h1v9h-3-4-2c0 1.0907 0.9093 2 2 2h7c1.0907 0 2-0.9093 2-2v-9c0-1.0907-0.9093-2-2-2z" />
+    <rect
+       id="rect5313"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       rx=".5"
+       ry=".5"
+       height="1"
+       width="4"
+       y="385"
+       x="545" />
+    <rect
+       id="rect5313-6"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       rx=".5"
+       ry=".5"
+       height="1"
+       width="5"
+       y="387"
+       x="545" />
+    <rect
+       id="rect5313-6-0"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       rx=".5"
+       ry=".5"
+       height="1"
+       width="3"
+       y="389"
+       x="545" />
+    <rect
+       id="rect5313-6-0-8"
+       style="color:#000000;enable-background:new;fill:#4c9906;fill-opacity:1"
+       rx=".5"
+       ry=".5"
+       height="1"
+       width="5"
+       y="391"
+       x="545" />
+  </g>
+</svg>
